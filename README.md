@@ -21,8 +21,8 @@ Predict machine components failure in order to apply predictive maintenance to r
 - reporting
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook](RNN.ipynb)
-* [Notebook](Classification.ipynb)
+* [RNN](RNN.ipynb)
+* [Classification](Classification.ipynb)
 * [Blog Post](https://yeexunwei.github.io/portfolio/2019-predictive-maintenance/)
 
 
