@@ -1,4 +1,4 @@
-# Forklifts Sensor Predictive Maintenance
+# Forklifts Predictive Maintenance
 A combination of LSTM and EDM models to address the issue of anomaly classification and prediction in time series data. Working with sensor data of forklifts used in storage and retrieval systems. Predictors based on variance and median methods in the handling of anomalies. 
 
 ## Project Intro
